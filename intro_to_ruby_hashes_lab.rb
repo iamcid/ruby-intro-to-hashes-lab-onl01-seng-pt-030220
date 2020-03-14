@@ -1,5 +1,5 @@
-def new_hash(hash)
-  months = hash.new
+def new_hash
+  h = hash.new ()
 end
 
 def actor
