@@ -1,6 +1,5 @@
 def new_hash
   nested = hash.new
-  nested["hashes"] = 10
 end
 
 def actor
