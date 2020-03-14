@@ -1,5 +1,5 @@
 def new_hash
-  nested = hash.new
+  new_hash = {}
 end
 
 def actor
