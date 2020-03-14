@@ -4,6 +4,7 @@ end
 
 def actor
   actor = {:name => "Brad Pitt"}
+  actor
 end
 
 def monopoly
