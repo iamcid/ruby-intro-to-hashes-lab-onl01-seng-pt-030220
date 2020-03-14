@@ -11,7 +11,7 @@ def monopoly
 end
 
 def monopoly_with_second_tier
-	monopoly = {railroads: {pieces: => 4, rent_in_dollars: => {one_piece_owed: => 25, two_pieces_owed: => 50, three_pieces_owed: => 100, four_pieces_owed: => 200 }}}
+	monopoly = {railroads: {pieces:=> 4, rent_in_dollars: => {one_piece_owed: => 25, two_pieces_owed: => 50, three_pieces_owed: => 100, four_pieces_owed: => 200 }}}
 
 end
 
